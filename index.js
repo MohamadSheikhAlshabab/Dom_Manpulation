@@ -12,7 +12,7 @@ myElement.appendChild(myP);
 myElement.style.background='linear-gradient(350deg,#00bf8f, #001510)';
 myElement.style.boxShadow= "rgba(15, 25, 25, 0.9) -5px 5px 9px, rgba(25, 27, 27, .5) -10px -10px 10px 5px, rgba(30, 70, 50, .9) 3px 5px 3px inset";
 myElement.style.height = '20rem';
-myElement.style.width = '20rem';
+// myElement.style.width = '20rem';
 myElement.style.borderRadius="1rem";
 myElement.style.padding="1rem";
 myElement.style.margin="1rem";
